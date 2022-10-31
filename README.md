@@ -2,8 +2,11 @@
 
 ## Preview
 Web view
+
 ![image](https://user-images.githubusercontent.com/13845731/198951048-855226b8-689d-402c-81f1-a02e7f429f0c.png)
+
 Mobile view
+
 ![image](https://user-images.githubusercontent.com/13845731/198951184-64f6cc6a-1137-4018-ac79-7fde0a5742cb.png)
 
 ### Tools
