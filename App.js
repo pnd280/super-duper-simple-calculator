@@ -73,23 +73,30 @@ const SimpleCalc = () => {
 		setHistoryList(historyList.filter((history) => history.id !== id));
 	};
 
+	const handleSaveHistory = (event) => {
+		event.preventDefault();
+		saveHistory();
+	};
+
 	return (
 		<View style={{ padding: 10 }}>
 			<div className="container">
 				<div className="calc-container">
-					<input
-						placeholder={"Type here any expression :'("}
-						onChange={(event) => {
-							setExpression(event.target.value);
-						}}
-						value={expression}
-					/>
+					<form onSubmit={(event) => handleSaveHistory(event)}>
+						<input
+							placeholder={"Type here any expression :'("}
+							onChange={(event) => {
+								setExpression(event.target.value);
+							}}
+							value={expression}
+						/>
+					</form>
 					<div>
 						Preview result: <span className="result">{result}</span>
 					</div>
 					<Button name="Save to history" onClick={saveHistory} />
 				</div>
-				
+
 				<hr />
 
 				<div>
