@@ -1,15 +1,14 @@
-# Hello
+# Simple Calculator
 
-## This is a Calculator
-
-![302191124_457697656432415_8887550066228891048_n](https://user-images.githubusercontent.com/54329318/198949135-db579fd8-30d2-4278-aab8-44d85b2444eb.png)
-
-![312258082_653076366326316_4231111014023765938_n](https://user-images.githubusercontent.com/54329318/198949159-914cf967-9307-44cc-8d90-42e3722a479f.png)
-
+## Preview
+Web view
+![image](https://user-images.githubusercontent.com/13845731/198951048-855226b8-689d-402c-81f1-a02e7f429f0c.png)
+Mobile view
+![image](https://user-images.githubusercontent.com/13845731/198951184-64f6cc6a-1137-4018-ac79-7fde0a5742cb.png)
 
 ### Tools
 - React Native Expo
-- Typescript
+
 
 # THÔNG TIN NHÓM N04
 
@@ -22,7 +21,7 @@ Nguyễn Gia Thống - 19520993
 -----
 
 
-# Hướng dẫn cài đặt
+<!-- # Hướng dẫn cài đặt
 
 ## Tải code về máy
 
@@ -71,4 +70,4 @@ expo start
   - Với ip là ip địa chỉ ip của máy tính
     > exp://ip:19000
 
-- B9: Connect và sử dụng ứng dụng
+- B9: Connect và sử dụng ứng dụng -->
