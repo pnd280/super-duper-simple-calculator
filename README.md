@@ -14,13 +14,13 @@
 - React Native Expo
 - Typescript
 
-# THÔNG TIN NHÓM 
+# THÔNG TIN NHÓM N04
 
--Lương Phạm Bảo-19521242
+Lương Phạm Bảo - 19521242
 
--Phạm Ngọc Dương-19521412
+Phạm Ngọc Dương - 19521412
 
--Nguyễn Gia Thống-19520993
+Nguyễn Gia Thống - 19520993
 
 -----
 
@@ -67,3 +67,11 @@ At the root folder run:
 ```
 expo start
 ```
+- B6: Tải app expo go trên điện thoại
+- B7: Mở app expo go trên điện thoại
+- B8: Tại mục Enter URL manually nhập:
+
+  - Với ip là ip địa chỉ ip của máy tính
+    > exp://ip:19000
+
+- B9: Connect và sử dụng ứng dụng
