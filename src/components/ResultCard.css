@@ -1,0 +1,14 @@
+
+
+.result-card {
+    text-align: center;
+    border: dashed 2px;
+    border-color: black;
+    margin: 5px;
+}
+
+.result-card .button {
+    height: 20px;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,27 @@
+body {
+    font-family     : 'Poppins';
+    box-sizing      : border-box;
+    background-color: #f5f5f5;
+    margin          : 0 auto;
+    max-width       : 100%;
+}
+
+.container {
+    width  : 30vw;
+    margin : auto;
+    display: flex;
+    flex-direction: row;
+}
+
+@media only screen and (max-width: 1500px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+.calc-container,
+.history-container {}
+
+.result {
+    font-weight: 700;
+}
