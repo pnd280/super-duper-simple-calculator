@@ -2,6 +2,10 @@
 
 ## This is a Calculator
 
+![302191124_457697656432415_8887550066228891048_n](https://user-images.githubusercontent.com/54329318/198949135-db579fd8-30d2-4278-aab8-44d85b2444eb.png)
+
+![312258082_653076366326316_4231111014023765938_n](https://user-images.githubusercontent.com/54329318/198949159-914cf967-9307-44cc-8d90-42e3722a479f.png)
+
 
 ### Tools
 - React Native Expo
