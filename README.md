@@ -34,10 +34,8 @@
   - B1: Tạo một thư mục (vd : CS526)
   - B2: Mở terminal và cd đến thư mục vừa tạo
   - B3: chạy lệnh sau:
-    > git clone https://github.com/19521242bao/CS526/
-  - B4: cd vào thư mục BT_Calculator
+    > git clone https://github.com/pnd280/super-duper-simple-calculator.git
 
-    <!-- ![](image_readme\1.png) -->
 
 ## Chạy expo với docker
 
@@ -64,7 +62,7 @@ npm install
 ```powershell
 npm start
 ```
-### Want to clone this project?
+### Want to run this project?
 At the root folder run:
 ```
 expo start
